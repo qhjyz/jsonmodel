@@ -21,3 +21,6 @@ Podfile.lock
 
 *.xcscheme
 
+
+.DS_Store
+
